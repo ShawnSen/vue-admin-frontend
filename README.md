@@ -12,6 +12,9 @@ vue-admin-frontend
 * 使用基类，封装常用的增删改查
 * 简单使用权限验证（只验证前端页面/路由访问权限）
 
+## 安装依赖
+npm install
+
 ## 文档地址
 [thinkphp6.0/vue-element-admin后台管理实战基础](https://www.kancloud.cn/zmshen/tp6-vue-element)
 
